@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1a2b3c4d5e",               // ID del usuario
+    "nombre": "Juan",                // Nombre del usuario
+    "apellido": "Pérez",             // Apellido del usuario
+    "usuario": "juan.perez@example.com", // Nombre de usuario (email)
+    "rut": "12345678-9",             // RUT del usuario
+    "carrera": "Ingeniería de Sistemas", // Carrera del usuario
+    "modalidad": "Diurna",           // Modalidad del usuario
+    "fotoPerfil": "url_de_la_imagen_de_juan", // URL de la foto de perfil
+    "bio": "Estudiante de Ingeniería de Sistemas" // Biografía del usuario
+  },
+  {
+    "id": "2f3g4h5i6j",               // ID del usuario
+    "nombre": "María",               // Nombre del usuario
+    "apellido": "González",          // Apellido del usuario
+    "usuario": "maria.gonzalez@example.com", // Nombre de usuario (email)
+    "rut": "98765432-1",             // RUT del usuario
+    "carrera": "Diseño Gráfico",     // Carrera del usuario
+    "modalidad": "Vespertina",       // Modalidad del usuario
+    "fotoPerfil": "url_de_la_imagen_de_maria", // URL de la foto de perfil
+    "bio": "Estudiante de Diseño Gráfico" // Biografía del usuario
+  }
+]

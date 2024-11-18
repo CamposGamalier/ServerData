@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1a2b3c4d5e",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "rut": "12345678-9",
+      "usuario": "juan.perez@example.com",
+      "carrera": "Ingeniería de Sistemas",
+      "modalidad": "Diurna",
+      "contrasena": "contraseña123"
+    },
+    {
+      "id": "2f3g4h5i6j",
+      "nombre": "María",
+      "apellido": "González",
+      "rut": "98765432-1",
+      "usuario": "maria.gonzalez@example.com",
+      "carrera": "Diseño Gráfico",
+      "modalidad": "Vespertina",
+      "contrasena": "contraseña456"
+    }
+  ]
+
+}

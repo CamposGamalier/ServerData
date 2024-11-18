@@ -1,0 +1,33 @@
+{
+  "qrCodes": [
+    {
+      "id": 1,
+      "imagen": "",
+      "nombre": "Evento 1",
+      "fecha":"2024-09-20" ,
+      "hora": "19:00",
+      "ubicacion":"Patio Central" ,
+      "cupos": "50"
+    },
+    {
+      "id": 2,
+      "imagen": "",
+      "nombre": "Evento 2",
+      "fecha":"2024-09-20" ,
+      "hora": "9:00",
+      "ubicacion":"Auditorio" ,
+      "cupos": "50"
+    },
+    {
+      "id": "DHiPhFeD",
+      "nombre": "123",
+      "fecha": "2/Abril/2023",
+      "hora": "02:02",
+      "ubicacion": "23",
+      "comentario": "123",
+      "qrCodigo": "123",
+      "imagen": null,
+      "cupos": 122
+    }
+  ]
+}

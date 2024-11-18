@@ -1,0 +1,20 @@
+{
+  "qrCodes": [
+    {
+      "id": 1,
+      "idEvento": "sjd1",
+      "nombre": "Evento 1",
+      "fecha": "2024-09-15",
+      "rut": "12345678",
+      "email": "usuario@ejemplo.com"
+    },
+    {
+      "id": 2,
+      "idEvento": "sjd12",
+      "nombre": "Evento 2",
+      "fecha": "2024-09-20",
+      "rut": "87654321",
+      "email": "otro_usuario@ejemplo.com"
+    }
+  ]
+}
