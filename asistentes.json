@@ -1,0 +1,33 @@
+{
+  "asistentes": [
+    {
+      "id": "1fa8",
+      "nombreu": "gama",
+      "apellido": "campos",
+      "ubicacion": "Auditorio 1",
+      "nombreEvento": "Evento 1",
+      "idEvento": "1",
+      "fecha": "2024-09-20",
+      "rut": "20108885-2",
+      "email": "gama@gmail.cl",
+      "comentario": "hola que tal",
+      "qrString": "Nombre: gama, ID Evento: 1, Nombre Evento: Evento 1, Fecha: 2024-09-20, RUT: 20108885-2, Email: gama@gmail.cl",
+      "presente": false
+    },
+    {
+      "id": "3d89",
+      "nombreu": "tester",
+      "apellido": "tester",
+      "ubicacion": "Auditorio 1",
+      "nombreEvento": "HACKATON",
+      "idEvento": "1",
+      "fecha": "2024-09-20",
+      "rut": "123",
+      "email": "test@duoc.cl",
+      "comentario": "asdasd",
+      "qrString": "Nombre: tester, ID Evento: 1, Nombre Evento: HACKATON, Fecha: 2024-09-20, RUT: 123, Email: test@duoc.cl",
+      "presente": false
+    }
+  ]
+
+}
